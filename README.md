@@ -23,11 +23,10 @@ Below are a few screenshots of the application:
    ```bash
    git clone https://github.com/ArdaKesis/youtube-clone.git
    
-Navigate to the Directory:
+2. **Navigate to the Directory**:
 
-bash
-Kodu kopyala
-cd youtube-clone
+   ```bash
+   cd youtube-clone
 
 Open the HTML File in Your Browser:
 
