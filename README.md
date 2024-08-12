@@ -14,7 +14,7 @@ This project is a web application that mimics the basic features and appearance 
 
 Below are a few screenshots of the application:
 
-![Screenshot 1](channel-pictures/image.png)
+![Screenshot 1]![image](https://github.com/user-attachments/assets/711dd480-646b-4905-863a-b0d88b8b7596)
 *Screenshot 1: Main page of the site.*
 
 ## Installation and Usage
@@ -57,3 +57,5 @@ New Features: Addition of new features is planned for future versions.
 
 Contributing
 If you wish to contribute, please fork the repository and submit a pull request. All contributions and suggestions are welcome.
+
+
