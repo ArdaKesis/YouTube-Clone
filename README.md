@@ -42,7 +42,7 @@ header.css: Contains style rules for the header and search bar.
 video.css: Contains style rules for the video grid and video cards.
 sidebar.css: Contains style rules for the sidebar and links.
 
-Features
+### Features
 
 Responsive Design: A grid layout that adapts to different screen sizes.
 Search Bar: A search bar allowing users to search for content.
@@ -50,12 +50,12 @@ Notification Icon: An icon displaying notifications to users.
 Voice Search: A button allowing users to search with voice commands.
 User Interface: Allows users to explore content seamlessly.
 
-Development
+### Development
 
 Interface Improvements: User interface enhancements and optimizations are planned.
 New Features: Addition of new features is planned for future versions.
 
-Contributing
+### Contributing
 If you wish to contribute, please fork the repository and submit a pull request. All contributions and suggestions are welcome.
 
 
