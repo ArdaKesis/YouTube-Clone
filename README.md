@@ -33,7 +33,7 @@ Open the HTML File in Your Browser:
 
 Open the youtube.html file in your default browser to view the project.
 
-Project Structure
+### Project Structure
 
 youtube.html: The main HTML file of the application containing all UI components.
 styles/: Contains all CSS files:
