@@ -35,10 +35,15 @@ Open the youtube.html file in your default browser to view the project.
 ### Project Structure
 
 -**youtube.html**: The main HTML file of the application containing all UI components.
+
 -**styles/**: Contains all CSS files:
+
 -**general.css**: Contains general style rules.
+
 -**header.css**: Contains style rules for the header and search bar.
+
 -**video.css**: Contains style rules for the video grid and video cards.
+
 -**sidebar.css**: Contains style rules for the sidebar and links.
 
 ### Features
